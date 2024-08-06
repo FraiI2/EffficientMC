@@ -1,1 +1,2 @@
-Report any bugs in the Issues tab.
+##[**EfficientMC**](https://modrinth.com/project/efficientmc)
+Report any bugs in the *Issues* tab.
